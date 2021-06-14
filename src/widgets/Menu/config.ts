@@ -72,7 +72,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/VikingSwapOfficial",
+        href: "https://t.me/fulcrumfinance",
       },
       {
         label: "Announcements",
@@ -83,7 +83,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/vikingswap",
+    href: "https://twitter.com/crypto_fulcrum",
   },
 ];
 

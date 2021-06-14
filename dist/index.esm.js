@@ -2054,7 +2054,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/VikingSwapOfficial",
+                href: "https://t.me/fulcrumfinance",
             },
             {
                 label: "Announcements",
@@ -2065,7 +2065,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/vikingswap",
+        href: "https://twitter.com/crypto_fulcrum",
     },
 ];
 var MENU_HEIGHT = 64;
