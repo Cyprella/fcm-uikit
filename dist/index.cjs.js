@@ -2064,16 +2064,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        items: [
-            {
-                label: "English",
-                href: "https://t.me/fulcrumfinance",
-            },
-            {
-                label: "Announcements",
-                href: "https://t.me/vikingswapannouncements",
-            },
-        ],
+        href: "https://t.me/fulcrumfinance",
     },
     {
         label: "Twitter",

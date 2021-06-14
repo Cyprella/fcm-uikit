@@ -69,22 +69,13 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    items: [
-      {
-        label: "English",
-        href: "https://t.me/fulcrumfinance",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/vikingswapannouncements",
-      },
-    ],
-  },
-  {
+    href: "https://t.me/fulcrumfinance",
+},
+{
     label: "Twitter",
     icon: "TwitterIcon",
     href: "https://twitter.com/crypto_fulcrum",
-  },
+},
 ];
 
 export const MENU_HEIGHT = 64;
